@@ -11,3 +11,9 @@ var a= 'rahim';
 var b= 'Uddin';
 var add=a+ ' ' +b;
 console.log(add);
+
+// define type
+
+console.log(typeof sum);
+console.log(typeof add);
+
