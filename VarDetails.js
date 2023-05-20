@@ -17,3 +17,4 @@ console.log(add);
 console.log(typeof sum);
 console.log(typeof add);
 
+
